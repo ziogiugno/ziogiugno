@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ziogiugno, a fullstack developer for more than 20 years 
+- 👀 I’m interested in web development, bushcraft, camping, fishing, texas holdem 
+- 🌱 I’m currently learning davinci resolve, seabass spinning
